@@ -1,0 +1,26 @@
+1. QUÉ ES MONGO DB?
+
+- Es una base de datos NoSQL orientada a documentos y grandes cantidades de datos
+
+- Los datos son almacenados en un formato JSON llamados BSON
+
+- TABLAS = COLECCIONES  Y REGISTROS(FILAS) = documentos
+
+2. NODE JS
+
+- ENTORNO DE CÓDIGO ABIERTO MULTIPLATAFORMA PERMITIENDO CREAR APIS
+
+3. PAQUETES NPM
+
+- npm install express
+
+- npm te permite definir las dependencias de tu proyecto en archivos package.JSON
+
+- npm init -y
+
+3. EXPRESS JS 
+
+- FRAMEWORK WEB MÁS POPULAR DE NODE
+
+-SOPORTA POST, GET, PUT, PATCH,DELETE EN LAS RUTAS - ROUTES{
+
